@@ -1,4 +1,4 @@
-GMTKN series of test sets as python data structures.
+GMTKN55 and other test sets as python data structures.
 
 The GMTKN55 database can be found at https://www.chemie.uni-bonn.de/grimme/de/software/gmtkn/gmtkn55
 
