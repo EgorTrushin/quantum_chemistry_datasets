@@ -1,6 +1,6 @@
 GMTKN series of test sets as python data structures.
 
-The GMTKN55 database can be found at https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/GMTKN/gmtkn55
+The GMTKN55 database can be found at https://www.chemie.uni-bonn.de/grimme/de/software/gmtkn/gmtkn55
 
 Also included are:
 * GW100: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00453
