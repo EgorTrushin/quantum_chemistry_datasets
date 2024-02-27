@@ -31,18 +31,18 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['nh3_2', 'nh3_2_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 59.300000 },
-    { 'systems' : ['nh3_3', 'nh3_3_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 46.900000 },
-    { 'systems' : ['nh3_4', 'nh3_4_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 48.400000 },
-    { 'systems' : ['h2o_2', 'h2o_2_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 48.600000 },
-    { 'systems' : ['h2o_3', 'h2o_3_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 29.800000 },
-    { 'systems' : ['h2o_4', 'h2o_4_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 26.600000 },
-    { 'systems' : ['h2o_5', 'h2o_5_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 30.100000 },
-    { 'systems' : ['h2o_6', 'h2o_6_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 35.100000 },
-    { 'systems' : ['hf_2', 'hf_2_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 42.300000 },
-    { 'systems' : ['hf_3', 'hf_3_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 20.700000 },
-    { 'systems' : ['hf_4', 'hf_4_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 14.700000 },
-    { 'systems' : ['hf_5', 'hf_5_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 14.600000 },
-    { 'systems' : ['hf_6', 'hf_6_ts'], 'stoichiometry' : ['-1', '1'], 'reference' : 16.600000 },
+    { 'systems' : ['nh3_2', 'nh3_2_ts'], 'stoichiometry' : [-1, 1], 'reference' : 59.300000 },
+    { 'systems' : ['nh3_3', 'nh3_3_ts'], 'stoichiometry' : [-1, 1], 'reference' : 46.900000 },
+    { 'systems' : ['nh3_4', 'nh3_4_ts'], 'stoichiometry' : [-1, 1], 'reference' : 48.400000 },
+    { 'systems' : ['h2o_2', 'h2o_2_ts'], 'stoichiometry' : [-1, 1], 'reference' : 48.600000 },
+    { 'systems' : ['h2o_3', 'h2o_3_ts'], 'stoichiometry' : [-1, 1], 'reference' : 29.800000 },
+    { 'systems' : ['h2o_4', 'h2o_4_ts'], 'stoichiometry' : [-1, 1], 'reference' : 26.600000 },
+    { 'systems' : ['h2o_5', 'h2o_5_ts'], 'stoichiometry' : [-1, 1], 'reference' : 30.100000 },
+    { 'systems' : ['h2o_6', 'h2o_6_ts'], 'stoichiometry' : [-1, 1], 'reference' : 35.100000 },
+    { 'systems' : ['hf_2', 'hf_2_ts'], 'stoichiometry' : [-1, 1], 'reference' : 42.300000 },
+    { 'systems' : ['hf_3', 'hf_3_ts'], 'stoichiometry' : [-1, 1], 'reference' : 20.700000 },
+    { 'systems' : ['hf_4', 'hf_4_ts'], 'stoichiometry' : [-1, 1], 'reference' : 14.700000 },
+    { 'systems' : ['hf_5', 'hf_5_ts'], 'stoichiometry' : [-1, 1], 'reference' : 14.600000 },
+    { 'systems' : ['hf_6', 'hf_6_ts'], 'stoichiometry' : [-1, 1], 'reference' : 16.600000 },
 ]
 

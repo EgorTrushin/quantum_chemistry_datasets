@@ -24,16 +24,16 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['geh3', 'ge2h6'], 'stoichiometry' : ['2', '-1'], 'reference' : 73.820000 },
-    { 'systems' : ['snme3', 'sn2me6'], 'stoichiometry' : ['2', '-1'], 'reference' : 61.740000 },
-    { 'systems' : ['pbme3', 'pb2me6'], 'stoichiometry' : ['2', '-1'], 'reference' : 52.920000 },
-    { 'systems' : ['sh', 'h2s2'], 'stoichiometry' : ['2', '-1'], 'reference' : 67.850000 },
-    { 'systems' : ['seh', 'h2se2'], 'stoichiometry' : ['2', '-1'], 'reference' : 58.370000 },
-    { 'systems' : ['teme', 'te2me2'], 'stoichiometry' : ['2', '-1'], 'reference' : 52.910000 },
-    { 'systems' : ['pme2', 'p2me4'], 'stoichiometry' : ['2', '-1'], 'reference' : 61.850000 },
-    { 'systems' : ['asme2', 'as2me4'], 'stoichiometry' : ['2', '-1'], 'reference' : 52.180000 },
-    { 'systems' : ['sbme2', 'sb2me4'], 'stoichiometry' : ['2', '-1'], 'reference' : 43.790000 },
-    { 'systems' : ['cl', 'cl2'], 'stoichiometry' : ['2', '-1'], 'reference' : 59.650000 },
-    { 'systems' : ['br', 'br2'], 'stoichiometry' : ['2', '-1'], 'reference' : 53.170000 },
+    { 'systems' : ['geh3', 'ge2h6'], 'stoichiometry' : [2, -1], 'reference' : 73.820000 },
+    { 'systems' : ['snme3', 'sn2me6'], 'stoichiometry' : [2, -1], 'reference' : 61.740000 },
+    { 'systems' : ['pbme3', 'pb2me6'], 'stoichiometry' : [2, -1], 'reference' : 52.920000 },
+    { 'systems' : ['sh', 'h2s2'], 'stoichiometry' : [2, -1], 'reference' : 67.850000 },
+    { 'systems' : ['seh', 'h2se2'], 'stoichiometry' : [2, -1], 'reference' : 58.370000 },
+    { 'systems' : ['teme', 'te2me2'], 'stoichiometry' : [2, -1], 'reference' : 52.910000 },
+    { 'systems' : ['pme2', 'p2me4'], 'stoichiometry' : [2, -1], 'reference' : 61.850000 },
+    { 'systems' : ['asme2', 'as2me4'], 'stoichiometry' : [2, -1], 'reference' : 52.180000 },
+    { 'systems' : ['sbme2', 'sb2me4'], 'stoichiometry' : [2, -1], 'reference' : 43.790000 },
+    { 'systems' : ['cl', 'cl2'], 'stoichiometry' : [2, -1], 'reference' : 59.650000 },
+    { 'systems' : ['br', 'br2'], 'stoichiometry' : [2, -1], 'reference' : 53.170000 },
 ]
 

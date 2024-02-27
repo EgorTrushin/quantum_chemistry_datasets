@@ -19,13 +19,13 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['li8', 'li2'], 'stoichiometry' : ['-1', '4'], 'reference' : 86.470000 },
-    { 'systems' : ['na8', 'na2'], 'stoichiometry' : ['-1', '4'], 'reference' : 53.150000 },
-    { 'systems' : ['li4_me4', 'li_me'], 'stoichiometry' : ['-1', '4'], 'reference' : 131.130000 },
-    { 'systems' : ['li3_me', 'li_me', 'li2'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 34.510000 },
-    { 'systems' : ['li2_ch4', 'li_me', 'li_h'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 47.420000 },
-    { 'systems' : ['li5_ch', 'li4_c', 'li_h'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 66.280000 },
-    { 'systems' : ['li2_ch2n_2', 'li_ch2n'], 'stoichiometry' : ['-1', '2'], 'reference' : 56.550000 },
-    { 'systems' : ['na+', 'li_na_h2', 'li+', 'na2_h2'], 'stoichiometry' : ['-1', '-1', '1', '1'], 'reference' : 25.300000 },
+    { 'systems' : ['li8', 'li2'], 'stoichiometry' : [-1, 4], 'reference' : 86.470000 },
+    { 'systems' : ['na8', 'na2'], 'stoichiometry' : [-1, 4], 'reference' : 53.150000 },
+    { 'systems' : ['li4_me4', 'li_me'], 'stoichiometry' : [-1, 4], 'reference' : 131.130000 },
+    { 'systems' : ['li3_me', 'li_me', 'li2'], 'stoichiometry' : [-1, 1, 1], 'reference' : 34.510000 },
+    { 'systems' : ['li2_ch4', 'li_me', 'li_h'], 'stoichiometry' : [-1, 1, 1], 'reference' : 47.420000 },
+    { 'systems' : ['li5_ch', 'li4_c', 'li_h'], 'stoichiometry' : [-1, 1, 1], 'reference' : 66.280000 },
+    { 'systems' : ['li2_ch2n_2', 'li_ch2n'], 'stoichiometry' : [-1, '2'], 'reference' : 56.550000 },
+    { 'systems' : ['na+', 'li_na_h2', 'li+', 'na2_h2'], 'stoichiometry' : [-1, -1, 1, 1], 'reference' : 25.300000 },
 ]
 

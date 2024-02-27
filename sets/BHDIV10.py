@@ -22,15 +22,15 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['ed1', 'ts1'], 'stoichiometry' : ['-1', '1'], 'reference' : 25.650000 },
-    { 'systems' : ['ed2', 'ts2'], 'stoichiometry' : ['-1', '1'], 'reference' : 56.900000 },
-    { 'systems' : ['ed3', 'ts3'], 'stoichiometry' : ['-1', '1'], 'reference' : 36.530000 },
-    { 'systems' : ['ed4', 'ts4'], 'stoichiometry' : ['-1', '1'], 'reference' : 96.170000 },
-    { 'systems' : ['ed5', 'ts5'], 'stoichiometry' : ['-1', '1'], 'reference' : 15.940000 },
-    { 'systems' : ['ed6', 'ts6'], 'stoichiometry' : ['-1', '1'], 'reference' : 13.640000 },
-    { 'systems' : ['ed7', 'ts7'], 'stoichiometry' : ['-1', '1'], 'reference' : 27.490000 },
-    { 'systems' : ['ed8', 'ts8'], 'stoichiometry' : ['-1', '1'], 'reference' : 50.240000 },
-    { 'systems' : ['ed9', 'ts9'], 'stoichiometry' : ['-1', '1'], 'reference' : 65.840000 },
-    { 'systems' : ['ed10', 'ts10'], 'stoichiometry' : ['-1', '1'], 'reference' : 64.930000 },
+    { 'systems' : ['ed1', 'ts1'], 'stoichiometry' : [-1, 1], 'reference' : 25.650000 },
+    { 'systems' : ['ed2', 'ts2'], 'stoichiometry' : [-1, 1], 'reference' : 56.900000 },
+    { 'systems' : ['ed3', 'ts3'], 'stoichiometry' : [-1, 1], 'reference' : 36.530000 },
+    { 'systems' : ['ed4', 'ts4'], 'stoichiometry' : [-1, 1], 'reference' : 96.170000 },
+    { 'systems' : ['ed5', 'ts5'], 'stoichiometry' : [-1, 1], 'reference' : 15.940000 },
+    { 'systems' : ['ed6', 'ts6'], 'stoichiometry' : [-1, 1], 'reference' : 13.640000 },
+    { 'systems' : ['ed7', 'ts7'], 'stoichiometry' : [-1, 1], 'reference' : 27.490000 },
+    { 'systems' : ['ed8', 'ts8'], 'stoichiometry' : [-1, 1], 'reference' : 50.240000 },
+    { 'systems' : ['ed9', 'ts9'], 'stoichiometry' : [-1, 1], 'reference' : 65.840000 },
+    { 'systems' : ['ed10', 'ts10'], 'stoichiometry' : [-1, 1], 'reference' : 64.930000 },
 ]
 

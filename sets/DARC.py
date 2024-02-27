@@ -24,19 +24,19 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['ethene', 'butadiene', 'P1'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -45.400000 },
-    { 'systems' : ['ethine', 'butadiene', 'P2'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -60.800000 },
-    { 'systems' : ['ethene', 'cpdiene', 'P3'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -29.900000 },
-    { 'systems' : ['ethine', 'cpdiene', 'P4'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -33.600000 },
-    { 'systems' : ['ethene', 'chdiene', 'P5'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -37.600000 },
-    { 'systems' : ['ethine', 'chdiene', 'P6'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -49.000000 },
-    { 'systems' : ['furane', 'malein', 'P7'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -14.000000 },
-    { 'systems' : ['furane', 'malein', 'P7X'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -15.900000 },
-    { 'systems' : ['furane', 'maleinNH', 'P8'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -16.800000 },
-    { 'systems' : ['furane', 'maleinNH', 'P8X'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -18.900000 },
-    { 'systems' : ['cpdiene', 'malein', 'P9'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -31.700000 },
-    { 'systems' : ['cpdiene', 'malein', 'P9X'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -32.200000 },
-    { 'systems' : ['cpdiene', 'maleinNH', 'P10'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -34.200000 },
-    { 'systems' : ['cpdiene', 'maleinNH', 'P10X'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -34.600000 },
+    { 'systems' : ['ethene', 'butadiene', 'P1'], 'stoichiometry' : [-1, -1, 1], 'reference' : -45.400000 },
+    { 'systems' : ['ethine', 'butadiene', 'P2'], 'stoichiometry' : [-1, -1, 1], 'reference' : -60.800000 },
+    { 'systems' : ['ethene', 'cpdiene', 'P3'], 'stoichiometry' : [-1, -1, 1], 'reference' : -29.900000 },
+    { 'systems' : ['ethine', 'cpdiene', 'P4'], 'stoichiometry' : [-1, -1, 1], 'reference' : -33.600000 },
+    { 'systems' : ['ethene', 'chdiene', 'P5'], 'stoichiometry' : [-1, -1, 1], 'reference' : -37.600000 },
+    { 'systems' : ['ethine', 'chdiene', 'P6'], 'stoichiometry' : [-1, -1, 1], 'reference' : -49.000000 },
+    { 'systems' : ['furane', 'malein', 'P7'], 'stoichiometry' : [-1, -1, 1], 'reference' : -14.000000 },
+    { 'systems' : ['furane', 'malein', 'P7X'], 'stoichiometry' : [-1, -1, 1], 'reference' : -15.900000 },
+    { 'systems' : ['furane', 'maleinNH', 'P8'], 'stoichiometry' : [-1, -1, 1], 'reference' : -16.800000 },
+    { 'systems' : ['furane', 'maleinNH', 'P8X'], 'stoichiometry' : [-1, -1, 1], 'reference' : -18.900000 },
+    { 'systems' : ['cpdiene', 'malein', 'P9'], 'stoichiometry' : [-1, -1, 1], 'reference' : -31.700000 },
+    { 'systems' : ['cpdiene', 'malein', 'P9X'], 'stoichiometry' : [-1, -1, 1], 'reference' : -32.200000 },
+    { 'systems' : ['cpdiene', 'maleinNH', 'P10'], 'stoichiometry' : [-1, -1, 1], 'reference' : -34.200000 },
+    { 'systems' : ['cpdiene', 'maleinNH', 'P10X'], 'stoichiometry' : [-1, -1, 1], 'reference' : -34.600000 },
 ]
 

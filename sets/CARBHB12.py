@@ -38,17 +38,17 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['1O', '1O_A', '1O_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 5.370000 },
-    { 'systems' : ['2O', '2O_A', '2O_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 6.047000 },
-    { 'systems' : ['3O', '3O_A', '3O_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 2.421000 },
-    { 'systems' : ['4O', '4O_A', '4O_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 9.967000 },
-    { 'systems' : ['1N', '1N_A', '1N_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 2.357000 },
-    { 'systems' : ['2N', '2N_A', '2N_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 3.021000 },
-    { 'systems' : ['3N', '3N_A', '3N_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 1.205000 },
-    { 'systems' : ['4N', '4N_A', '4N_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 4.177000 },
-    { 'systems' : ['1CL', '1CL_A', '1CL_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 7.839000 },
-    { 'systems' : ['2CL', '2CL_A', '2CL_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 10.483000 },
-    { 'systems' : ['3CL', '3CL_A', '3CL_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 3.241000 },
-    { 'systems' : ['4CL', '4CL_A', '4CL_B'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 16.296000 },
+    { 'systems' : ['1O', '1O_A', '1O_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 5.370000 },
+    { 'systems' : ['2O', '2O_A', '2O_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 6.047000 },
+    { 'systems' : ['3O', '3O_A', '3O_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 2.421000 },
+    { 'systems' : ['4O', '4O_A', '4O_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 9.967000 },
+    { 'systems' : ['1N', '1N_A', '1N_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 2.357000 },
+    { 'systems' : ['2N', '2N_A', '2N_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 3.021000 },
+    { 'systems' : ['3N', '3N_A', '3N_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 1.205000 },
+    { 'systems' : ['4N', '4N_A', '4N_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 4.177000 },
+    { 'systems' : ['1CL', '1CL_A', '1CL_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 7.839000 },
+    { 'systems' : ['2CL', '2CL_A', '2CL_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 10.483000 },
+    { 'systems' : ['3CL', '3CL_A', '3CL_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 3.241000 },
+    { 'systems' : ['4CL', '4CL_A', '4CL_B'], 'stoichiometry' : [-1, 1, 1], 'reference' : 16.296000 },
 ]
 

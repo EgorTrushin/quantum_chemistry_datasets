@@ -20,11 +20,11 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['22', '22A', '22B'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -34.430000 },
-    { 'systems' : ['23', '23A', '23B'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -23.830000 },
-    { 'systems' : ['24', '24A', '24B'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -17.830000 },
-    { 'systems' : ['25', '25A', '25B'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -39.090000 },
-    { 'systems' : ['26', '26A', '26B'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -25.630000 },
-    { 'systems' : ['27', '27A', '27B'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -19.900000 },
+    { 'systems' : ['22', '22A', '22B'], 'stoichiometry' : [1, -1, -1], 'reference' : -34.430000 },
+    { 'systems' : ['23', '23A', '23B'], 'stoichiometry' : [1, -1, -1], 'reference' : -23.830000 },
+    { 'systems' : ['24', '24A', '24B'], 'stoichiometry' : [1, -1, -1], 'reference' : -17.830000 },
+    { 'systems' : ['25', '25A', '25B'], 'stoichiometry' : [1, -1, -1], 'reference' : -39.090000 },
+    { 'systems' : ['26', '26A', '26B'], 'stoichiometry' : [1, -1, -1], 'reference' : -25.630000 },
+    { 'systems' : ['27', '27A', '27B'], 'stoichiometry' : [1, -1, -1], 'reference' : -19.900000 },
 ]
 

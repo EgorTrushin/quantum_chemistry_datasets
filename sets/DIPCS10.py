@@ -22,15 +22,15 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['c4h4', 'c4h4_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 529.200000 },
-    { 'systems' : ['c2h6', 'c2h6_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 667.100000 },
-    { 'systems' : ['c2h4', 'c2h4_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 655.800000 },
-    { 'systems' : ['n2h2', 'n2h2_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 626.900000 },
-    { 'systems' : ['nh3', 'nh3_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 776.500000 },
-    { 'systems' : ['ch2o', 'ch2o_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 747.600000 },
-    { 'systems' : ['h2s', 'h2s_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 733.000000 },
-    { 'systems' : ['ph3', 'ph3_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 649.600000 },
-    { 'systems' : ['mg', 'mg_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 522.100000 },
-    { 'systems' : ['be', 'be_2+'], 'stoichiometry' : ['-1', '1'], 'reference' : 634.800000 },
+    { 'systems' : ['c4h4', 'c4h4_2+'], 'stoichiometry' : [-1, 1], 'reference' : 529.200000 },
+    { 'systems' : ['c2h6', 'c2h6_2+'], 'stoichiometry' : [-1, 1], 'reference' : 667.100000 },
+    { 'systems' : ['c2h4', 'c2h4_2+'], 'stoichiometry' : [-1, 1], 'reference' : 655.800000 },
+    { 'systems' : ['n2h2', 'n2h2_2+'], 'stoichiometry' : [-1, 1], 'reference' : 626.900000 },
+    { 'systems' : ['nh3', 'nh3_2+'], 'stoichiometry' : [-1, 1], 'reference' : 776.500000 },
+    { 'systems' : ['ch2o', 'ch2o_2+'], 'stoichiometry' : [-1, 1], 'reference' : 747.600000 },
+    { 'systems' : ['h2s', 'h2s_2+'], 'stoichiometry' : [-1, 1], 'reference' : 733.000000 },
+    { 'systems' : ['ph3', 'ph3_2+'], 'stoichiometry' : [-1, 1], 'reference' : 649.600000 },
+    { 'systems' : ['mg', 'mg_2+'], 'stoichiometry' : [-1, 1], 'reference' : 522.100000 },
+    { 'systems' : ['be', 'be_2+'], 'stoichiometry' : [-1, 1], 'reference' : 634.800000 },
 ]
 

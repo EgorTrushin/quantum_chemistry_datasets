@@ -23,17 +23,17 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['nh3', 'bh3', 'nh3-bh3'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -32.100000 },
-    { 'systems' : ['nh3-bh3', 'nh2-bh2', 'h2'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : -0.200000 },
-    { 'systems' : ['nh2-bh2', 'nh-bh', 'h2'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 37.600000 },
-    { 'systems' : ['nh2-bh2', 'cbut'], 'stoichiometry' : ['-2', '1'], 'reference' : -19.500000 },
-    { 'systems' : ['nh2-bh2', 'bz', 'h2'], 'stoichiometry' : ['-3', '1', '3'], 'reference' : -48.900000 },
-    { 'systems' : ['nh2-bh2', 'ch'], 'stoichiometry' : ['-3', '1'], 'reference' : -46.100000 },
-    { 'systems' : ['BH3PH3', 'BH3', 'PH3'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -25.200000 },
-    { 'systems' : ['K_H', 'BH3PH3', 'H2'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : 40.400000 },
-    { 'systems' : ['BF3PMe3', 'BF3', 'PMe3'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -15.200000 },
-    { 'systems' : ['K_F', 'BF3PMe3', 'H2'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : 18.500000 },
-    { 'systems' : ['BCl3PMe3', 'BCl3', 'PMe3'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : -31.200000 },
-    { 'systems' : ['K_Cl', 'BCl3PMe3', 'H2'], 'stoichiometry' : ['1', '-1', '-1'], 'reference' : 17.600000 },
+    { 'systems' : ['nh3', 'bh3', 'nh3-bh3'], 'stoichiometry' : [-1, -1, 1], 'reference' : -32.100000 },
+    { 'systems' : ['nh3-bh3', 'nh2-bh2', 'h2'], 'stoichiometry' : [-1, 1, 1], 'reference' : -0.200000 },
+    { 'systems' : ['nh2-bh2', 'nh-bh', 'h2'], 'stoichiometry' : [-1, 1, 1], 'reference' : 37.600000 },
+    { 'systems' : ['nh2-bh2', 'cbut'], 'stoichiometry' : [-2, 1], 'reference' : -19.500000 },
+    { 'systems' : ['nh2-bh2', 'bz', 'h2'], 'stoichiometry' : [-3, 1, 3], 'reference' : -48.900000 },
+    { 'systems' : ['nh2-bh2', 'ch'], 'stoichiometry' : [-3, 1], 'reference' : -46.100000 },
+    { 'systems' : ['BH3PH3', 'BH3', 'PH3'], 'stoichiometry' : [1, -1, -1], 'reference' : -25.200000 },
+    { 'systems' : ['K_H', 'BH3PH3', 'H2'], 'stoichiometry' : [1, -1, -1], 'reference' : 40.400000 },
+    { 'systems' : ['BF3PMe3', 'BF3', 'PMe3'], 'stoichiometry' : [1, -1, -1], 'reference' : -15.200000 },
+    { 'systems' : ['K_F', 'BF3PMe3', 'H2'], 'stoichiometry' : [1, -1, -1], 'reference' : 18.500000 },
+    { 'systems' : ['BCl3PMe3', 'BCl3', 'PMe3'], 'stoichiometry' : [1, -1, -1], 'reference' : -31.200000 },
+    { 'systems' : ['K_Cl', 'BCl3PMe3', 'H2'], 'stoichiometry' : [1, -1, -1], 'reference' : 17.600000 },
 ]
 

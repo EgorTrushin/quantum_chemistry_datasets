@@ -13,11 +13,11 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['al2h6', 'alh3'], 'stoichiometry' : ['-1', '2'], 'reference' : 38.500000 },
-    { 'systems' : ['al2f6', 'alf3'], 'stoichiometry' : ['-1', '2'], 'reference' : 51.600000 },
-    { 'systems' : ['al2cl6', 'alcl3'], 'stoichiometry' : ['-1', '2'], 'reference' : 32.500000 },
-    { 'systems' : ['al2me4', 'alme2'], 'stoichiometry' : ['-1', '2'], 'reference' : 38.400000 },
-    { 'systems' : ['al2me5', 'alme2', 'alme3'], 'stoichiometry' : ['-1', '1', '1'], 'reference' : 31.200000 },
-    { 'systems' : ['al2me6', 'alme3'], 'stoichiometry' : ['-1', '2'], 'reference' : 23.100000 },
+    { 'systems' : ['al2h6', 'alh3'], 'stoichiometry' : [-1, 2], 'reference' : 38.500000 },
+    { 'systems' : ['al2f6', 'alf3'], 'stoichiometry' : [-1, 2], 'reference' : 51.600000 },
+    { 'systems' : ['al2cl6', 'alcl3'], 'stoichiometry' : [-1, 2], 'reference' : 32.500000 },
+    { 'systems' : ['al2me4', 'alme2'], 'stoichiometry' : [-1, 2], 'reference' : 38.400000 },
+    { 'systems' : ['al2me5', 'alme2', 'alme3'], 'stoichiometry' : [-1, 1, 1], 'reference' : 31.200000 },
+    { 'systems' : ['al2me6', 'alme3'], 'stoichiometry' : [-1, 2], 'reference' : 23.100000 },
 ]
 

@@ -32,18 +32,18 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['ISO_E36', 'ISO_P36'], 'stoichiometry' : ['1', '-1'], 'reference' : -1.000000 },
-    { 'systems' : ['c20cage', 'c20bowl'], 'stoichiometry' : ['-1', '1'], 'reference' : -7.700000 },
-    { 'systems' : ['heptatriyne', 'heptahexaene'], 'stoichiometry' : ['1', '-1'], 'reference' : -15.200000 },
-    { 'systems' : ['tmethen', 'omcb'], 'stoichiometry' : ['-2', '1'], 'reference' : -18.800000 },
-    { 'systems' : ['ISO_E35', 'ISO_P35'], 'stoichiometry' : ['1', '-1'], 'reference' : -22.900000 },
-    { 'systems' : ['carbooxo2', 'carbooxo1'], 'stoichiometry' : ['-1', '1'], 'reference' : -25.700000 },
-    { 'systems' : ['ethen', 'ch2n2', '13dip'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -38.900000 },
-    { 'systems' : ['be4', 'be'], 'stoichiometry' : ['1', '-4'], 'reference' : -92.000000 },
-    { 'systems' : ['s2', 's8'], 'stoichiometry' : ['-4', '1'], 'reference' : -106.000000 },
-    { 'systems' : ['ISO_C8H8_1', 'ISO_C8H8_41'], 'stoichiometry' : ['-1', '1'], 'reference' : 109.920000 },
-    { 'systems' : ['o3', 'c2h2', 'o3_c2h2_add'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -65.300000 },
-    { 'systems' : ['o3', 'c2h4', 'o3_c2h4_add'], 'stoichiometry' : ['-1', '-1', '1'], 'reference' : -58.700000 },
-    { 'systems' : ['C6Cl6', 'HCL', 'C6H6', 'CL2'], 'stoichiometry' : ['-1', '-6', '1', '6'], 'reference' : 152.600000 },
+    { 'systems' : ['ISO_E36', 'ISO_P36'], 'stoichiometry' : [1, -1], 'reference' : -1.000000 },
+    { 'systems' : ['c20cage', 'c20bowl'], 'stoichiometry' : [-1, 1], 'reference' : -7.700000 },
+    { 'systems' : ['heptatriyne', 'heptahexaene'], 'stoichiometry' : [1, -1], 'reference' : -15.200000 },
+    { 'systems' : ['tmethen', 'omcb'], 'stoichiometry' : ['-2', 1], 'reference' : -18.800000 },
+    { 'systems' : ['ISO_E35', 'ISO_P35'], 'stoichiometry' : [1, -1], 'reference' : -22.900000 },
+    { 'systems' : ['carbooxo2', 'carbooxo1'], 'stoichiometry' : [-1, 1], 'reference' : -25.700000 },
+    { 'systems' : ['ethen', 'ch2n2', '13dip'], 'stoichiometry' : [-1, -1, 1], 'reference' : -38.900000 },
+    { 'systems' : ['be4', 'be'], 'stoichiometry' : [1, '-4'], 'reference' : -92.000000 },
+    { 'systems' : ['s2', 's8'], 'stoichiometry' : ['-4', 1], 'reference' : -106.000000 },
+    { 'systems' : ['ISO_C8H8_1', 'ISO_C8H8_41'], 'stoichiometry' : [-1, 1], 'reference' : 109.920000 },
+    { 'systems' : ['o3', 'c2h2', 'o3_c2h2_add'], 'stoichiometry' : [-1, -1, 1], 'reference' : -65.300000 },
+    { 'systems' : ['o3', 'c2h4', 'o3_c2h4_add'], 'stoichiometry' : [-1, -1, 1], 'reference' : -58.700000 },
+    { 'systems' : ['C6Cl6', 'HCL', 'C6H6', 'CL2'], 'stoichiometry' : [-1, '-6', 1, '6'], 'reference' : 152.600000 },
 ]
 

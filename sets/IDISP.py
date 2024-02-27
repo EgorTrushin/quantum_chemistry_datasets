@@ -15,11 +15,11 @@ systems = {
 }
 
 reactions = [
-    { 'systems' : ['antdimer', 'ant'], 'stoichiometry' : ['1', '-2'], 'reference' : -9.150000 },
-    { 'systems' : ['pxylene', 'pc22', 'h2'], 'stoichiometry' : ['2', '-1', '-2'], 'reference' : -60.280000 },
-    { 'systems' : ['octane1', 'octane2'], 'stoichiometry' : ['1', '-1'], 'reference' : -1.210000 },
-    { 'systems' : ['undecan1', 'undecan2'], 'stoichiometry' : ['1', '-1'], 'reference' : 9.100000 },
-    { 'systems' : ['F14f', 'F14l'], 'stoichiometry' : ['-1', '1'], 'reference' : -3.640000 },
-    { 'systems' : ['F22f', 'F22l'], 'stoichiometry' : ['-1', '1'], 'reference' : -1.960000 },
+    { 'systems' : ['antdimer', 'ant'], 'stoichiometry' : [1, -2], 'reference' : -9.150000 },
+    { 'systems' : ['pxylene', 'pc22', 'h2'], 'stoichiometry' : [2, -1, -2], 'reference' : -60.280000 },
+    { 'systems' : ['octane1', 'octane2'], 'stoichiometry' : [1, -1], 'reference' : -1.210000 },
+    { 'systems' : ['undecan1', 'undecan2'], 'stoichiometry' : [1, -1], 'reference' : 9.100000 },
+    { 'systems' : ['F14f', 'F14l'], 'stoichiometry' : [-1, 1], 'reference' : -3.640000 },
+    { 'systems' : ['F22f', 'F22l'], 'stoichiometry' : [-1, 1], 'reference' : -1.960000 },
 ]
 
